@@ -4,7 +4,7 @@
 
 ## Contributors
 
-* [Ahmad Yones](ahmadmhdyones@gmail.com)
+* [Ahmad Yones](mailto:ahmadmhdyones@gmail.com)
 * Ibraheem Hafez
 
 ## Methods Used
